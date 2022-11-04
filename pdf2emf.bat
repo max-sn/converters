@@ -1,0 +1,1 @@
+python "%~dp0pdf2emf.py" %*
